@@ -26,7 +26,7 @@ b = int(input("Ingrese el segundo numero: "))
 print("El resultado es:",  a, operation, b, "=", basic_operations(a,b,operation))
 ```
 
-## Ejercicio #2: Verificador de palidromos.
+## Ejercicio #2: Verificador de palíndromos.
 Para realizar el verificador, primero se convierten todas las letras en minúsculas y se le eliminan los espacios en caso de tener, se invierte la palabra y esta se compara con la original, y de esta manera se confirma o niega que la palabra sea un palindromo.
 
 ```python
